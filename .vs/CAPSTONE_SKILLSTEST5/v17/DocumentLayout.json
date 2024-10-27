@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CAPSTONE_SKILLSTEST5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A99F781-413F-4F52-95AC-3F07571B6B77}|CAPSTONE_SKILLSTEST5\\CAPSTONE_SKILLSTEST5.csproj|c:\\users\\pc\\source\\repos\\capstone_skillstest5\\capstone_skillstest5\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5A99F781-413F-4F52-95AC-3F07571B6B77}|CAPSTONE_SKILLSTEST5\\CAPSTONE_SKILLSTEST5.csproj|solutionrelative:capstone_skillstest5\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A99F781-413F-4F52-95AC-3F07571B6B77}|CAPSTONE_SKILLSTEST5\\CAPSTONE_SKILLSTEST5.csproj|C:\\Users\\PC\\source\\repos\\CAPSTONE_SKILLSTEST5\\capstone_skillstest5\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A99F781-413F-4F52-95AC-3F07571B6B77}|CAPSTONE_SKILLSTEST5\\CAPSTONE_SKILLSTEST5.csproj|solutionrelative:capstone_skillstest5\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A99F781-413F-4F52-95AC-3F07571B6B77}|CAPSTONE_SKILLSTEST5\\CAPSTONE_SKILLSTEST5.csproj|C:\\Users\\PC\\source\\repos\\CAPSTONE_SKILLSTEST5\\capstone_skillstest5\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A99F781-413F-4F52-95AC-3F07571B6B77}|CAPSTONE_SKILLSTEST5\\CAPSTONE_SKILLSTEST5.csproj|solutionrelative:capstone_skillstest5\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\AppData\\Local\\Temp\\20ilnoxp..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CAPSTONE_SKILLSTEST5\\CAPSTONE_SKILLSTEST5\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "CAPSTONE_SKILLSTEST5\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CAPSTONE_SKILLSTEST5\\CAPSTONE_SKILLSTEST5\\Default.aspx.cs",
+              "RelativeToolTip": "CAPSTONE_SKILLSTEST5\\Default.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T21:08:34.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CAPSTONE_SKILLSTEST5\\CAPSTONE_SKILLSTEST5\\Default.aspx",
+              "RelativeDocumentMoniker": "CAPSTONE_SKILLSTEST5\\Default.aspx",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CAPSTONE_SKILLSTEST5\\CAPSTONE_SKILLSTEST5\\Default.aspx",
+              "RelativeToolTip": "CAPSTONE_SKILLSTEST5\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T21:05:47.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CAPSTONE_SKILLSTEST5\\CAPSTONE_SKILLSTEST5\\Web.config",
+              "RelativeDocumentMoniker": "CAPSTONE_SKILLSTEST5\\Web.config",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CAPSTONE_SKILLSTEST5\\CAPSTONE_SKILLSTEST5\\Web.config",
+              "RelativeToolTip": "CAPSTONE_SKILLSTEST5\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-10T21:04:43.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\PC\\AppData\\Local\\Temp\\20ilnoxp..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\20ilnoxp..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-10T21:03:15.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
